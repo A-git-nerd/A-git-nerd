@@ -2,8 +2,6 @@
 
 A passionate **Software Engineering enthusiast** who loves building creative tech experiences and constantly leveling up! Whether it's backend systems, stunning frontends, or immersive AR apps — I'm always exploring new dimensions of tech.
 
----
-
 ## 🚀 What I'm Up To
 
 - 🔭 Currently working with **Augmented Reality (AR)** using **Unity** and **Vuforia**
@@ -12,8 +10,6 @@ A passionate **Software Engineering enthusiast** who loves building creative tec
 
 - 📫 Reach me at: `muhammad.ahmad.github@gmail.com`
 - 🧠 Fun Fact: I can code in **Assembly** and still sleep at night. 😎
-
----
 
 ## 🛠️ Languages & Technologies
 
@@ -43,7 +39,6 @@ A passionate **Software Engineering enthusiast** who loves building creative tec
 ![Vuforia](https://img.shields.io/badge/Vuforia-009688?style=for-the-badge&logo=vuforia&logoColor=white)
 ![AR](https://img.shields.io/badge/Augmented_Reality-FF4081?style=for-the-badge)
 
----
 
 ## 🧰 My Dev Toolbox
 
@@ -58,7 +53,6 @@ A passionate **Software Engineering enthusiast** who loves building creative tec
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![PGAdmin](https://img.shields.io/badge/PGAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ## ✨ Thanks for stopping by!
 
