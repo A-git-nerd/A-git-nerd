@@ -4,9 +4,9 @@ A passionate **Software Engineering enthusiast** who loves building creative tec
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working with **Augmented Reality (AR)** using **Unity** and **Vuforia**
-- ☁️ Learning **Cloud technologies** and **Scalable Backend systems**  
-- 💬 Ask me anything about **Java**, **C++**, **React**, **Spring Boot**, **Unity**, or **AR development**
+- 🔭 Currently working with **Python and Java**
+- ☁️ Learning **Ai/Ml** and **Scalable Backend systems**  
+- 💬 Ask me anything about **Java**, **C++**, **React**, **Spring Boot**, **Python**, or **AR development**
 
 - 📫 Reach me at: `muhammad.ahmad.github@gmail.com`
 - 🧠 Fun Fact: I can code in **Assembly** and still sleep at night. 😎
