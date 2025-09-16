@@ -1,6 +1,6 @@
 # 👋 Wassup, I'm Muhammad Ahmad Butt!
 
-⚡ **Turning ideas into code and code into experiences — where backend logic meets AR magic and AI intelligence.** My main focus is on building powerful **systems**, crafting **sleek frontends**, experimenting with immersive **AR/VR apps**, and diving deep into the world of **AI/ML**. I’m constantly pushing boundaries and leveling up in the world of tech. 🚀
+⚡ **Turning ideas into code and code into experiences, where backend logic meets AR magic and AI intelligence.** My main focus is on building powerful **systems**, crafting **sleek frontends**, experimenting with immersive **AR/VR apps**, and diving deep into the world of **AI/ML**. I’m constantly pushing boundaries and leveling up in the world of tech. 🚀
 
 ## 🚀 What I'm Up To
 
