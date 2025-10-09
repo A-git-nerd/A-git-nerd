@@ -2,13 +2,6 @@
 
 **Turning ideas into code and code into experiences, where backend logic meets AR magic and AI intelligence.** My main focus is on building powerful **systems**, crafting **sleek frontends**, experimenting with immersive **AR/VR apps**, and diving deep into the world of **AI/ML**. I’m constantly pushing boundaries and leveling up in the world of tech.
 
-## 🚀 What I'm Up To
-
-- 🔭 Currently working with **Python and Java**
-- ☁️ Learning **AI/ML** and **Scalable Backend Systems**
-- 🎮 Exploring **Game Development** with Unity and AR/VR  
-- 💬 Ask me anything about **Java**, **C++**, **C# (Unity)**, **Python**, **Spring Boot**, **Unity**, or **AR/VR development**
-
 - 📫 Reach me at: `muhammad.ahmad.github@gmail.com`  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-butt-0324b036a)  
 - 🧠 Fun Fact: I can code in **Assembly** and still sleep at night. 😎
