@@ -1,5 +1,6 @@
 # 👋 Wassup, I'm Muhammad Ahmad Butt!
 
+🥤 So, take some juice - maybe you’re tired from stalking 😏  
 Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Desktop Apps**
 
 ## 🌐 Connect With Me
