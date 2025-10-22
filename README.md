@@ -2,15 +2,11 @@
 
 Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Desktop Apps** 💻🔥  
 
----
-
 ## 🌐 Connect With Me
 
 📫 **Email:** `muhammad.ahmad.github@gmail.com`  
 💼 **LinkedIn:** [Muhammad Ahmad Butt](https://www.linkedin.com/in/muhammad-ahmad-butt-0324b036a)  
 🧠 **Fun Fact:** I can code in **Assembly** and still sleep at night 😎  
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -60,47 +56,24 @@ Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Desktop Apps** 💻�
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![PGAdmin](https://img.shields.io/badge/PGAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
 ## 🚀 Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌍 Web Apps</h3>
-      <ul align="left">
-        <li>Lost and Found Portal</li>
-        <li>Quizify</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <h3>🕶️ AR / VR</h3>
-      <ul align="left">
-        <li>VR Stumble Guy (Meta Quest 3)</li>
-        <li>Card Portfolio</li>
-        <li>Placement Apps (IKEA / Plants AR)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Desktop Apps</h3>
-      <ul align="left">
-        <li>FAST Electrics</li>
-        <li>Student Management System</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎮 Unity Games</h3>
-      <ul align="left">
-        <li>Endless Game (3D)</li>
-        <li>Monster Chase (2D)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🌍 Web Apps
+- Lost and Found Portal  
+- Quizify  
 
----
+### 🕶️ AR / VR
+- VR Stumble Guy (Meta Quest 3)  
+- Card Portfolio  
+- Placement Apps (IKEA and Plants-type AR App)  
+
+### 💻 Desktop Apps
+- FAST Electrics  
+- Student Management System  
+
+### 🎮 Unity Games
+- Endless Game (3D)  
+- Monster Chase (2D)  
 
 ## ✨ Let’s Collaborate!
 
