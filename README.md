@@ -1,6 +1,6 @@
 # 👋 Wassup, I'm Muhammad Ahmad Butt!
 
-Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Desktop Apps** 💻🔥  
+Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Desktop Apps**
 
 ## 🌐 Connect With Me
 
