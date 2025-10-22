@@ -1,12 +1,10 @@
 # 👋 Wassup, I'm Muhammad Ahmad Butt!
 
-Just a noob guy who’s into web dev, AR/VR, and desktop apps.
+  Just a noob guy who’s into web dev, AR/VR, and desktop apps.
 
 - 📫 Reach me at: `muhammad.ahmad.github@gmail.com`  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-butt-0324b036a)  
 - 🧠 Fun Fact: I can code in **Assembly** and still sleep at night. 😎
-
----
 
 ## 🛠️ Languages & Technologies
 
@@ -42,8 +40,6 @@ Just a noob guy who’s into web dev, AR/VR, and desktop apps.
 ![AR](https://img.shields.io/badge/Augmented_Reality-FF4081?style=for-the-badge)
 ![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
 
----
-
 ## 🧰 My Dev Toolbox
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,8 +54,6 @@ Just a noob guy who’s into web dev, AR/VR, and desktop apps.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![PGAdmin](https://img.shields.io/badge/PGAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
 
 ## ✨ Thanks for stopping by!
 
