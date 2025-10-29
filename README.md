@@ -38,24 +38,17 @@
 ![AR](https://img.shields.io/badge/Augmented_Reality-FF4081?style=for-the-badge)
 ![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
 
-## 🚀 Projects
+## 🔥Hot Projects
+🎮 **[VR Stumble Guy](https://drive.google.com/drive/u/1/folders/1_3ANh86cpEYNxa_uZKssLi7e8Ayf7yFY)**  
+Meta Quest 3 | VRIF | Physics + Fun 👾  
 
-### 🌍 Web Apps
-- Lost and Found Portal  
-- Quizify  
+🃏 **[AR Card Portfolio](https://drive.google.com/file/d/1H8pnq6HkMy9Qvn5EBXnbseafwAp1Hb1e/view?usp=sharing)**  
+AR-based Interactive Portfolio | Marker Tracking Magic | AR Foundation ✨  
 
-### 🕶️ AR / VR
-- VR Stumble Guy (Meta Quest 3)  
-- Card Portfolio  
-- Placement Apps (IKEA & Plants-type AR App)  
+🚗 **[Endless Game (3D)](https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view?usp=sharing)**  
+Unity 3D Infinite Runner | Cool chaos included 😎  
 
-### 💻 Desktop Apps
-- FAST Electrics  
-- Student Management System  
-
-### 🎮 Unity Games
-- Endless Game (3D)  
-- Monster Chase (2D)  
+🍳 ...some are still cooking, hehe :p
 
 ## ✨ Let’s Collaborate!
 If you’ve got an idea, I’m ready to execute it 🚀  
