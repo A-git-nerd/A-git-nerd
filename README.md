@@ -39,9 +39,9 @@
 ![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
 
 ## 🔥Hot Projects (DEMO)
-[![VR](https://img.shields.io/badge/VR_Stumble_Guy-100000?style=for-the-badge&logo=meta&logoColor=white)](https://drive.google.com/drive/u/1/folders/1_3ANh86cpEYNxa_uZKssLi7e8Ayf7yFY)
+[![VR](https://img.shields.io/badge/VR_Stumble_Guy-0A66C2?style=for-the-badge&logo=meta&logoColor=white)](https://drive.google.com/drive/u/1/folders/1_3ANh86cpEYNxa_uZKssLi7e8Ayf7yFY)
 [![AR](https://img.shields.io/badge/AR_Card_Portfolio-FF4081?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/1H8pnq6HkMy9Qvn5EBXnbseafwAp1Hb1e/view?usp=sharing)
-[![Game](https://img.shields.io/badge/Endless_Game_(3D)-0A66C2?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view?usp=sharing)
+[![Game](https://img.shields.io/badge/Endless_Game_(3D)-100000?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view?usp=sharing)
 
 🍳 ...some are still cooking, hehe
 
