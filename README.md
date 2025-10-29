@@ -37,7 +37,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![AR](https://img.shields.io/badge/Augmented_Reality-FF4081?style=for-the-badge)
 ![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
-🎮 Unity Games (2D/3D) | AR | VR | Cool chaos included 😎
 
 ## 🚀 Projects
 
