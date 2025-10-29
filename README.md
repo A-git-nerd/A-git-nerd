@@ -39,16 +39,16 @@
 ![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
 
 ## 🔥Hot Projects
-🎮 **[VR Stumble Guy](https://drive.google.com/drive/u/1/folders/1_3ANh86cpEYNxa_uZKssLi7e8Ayf7yFY)**  
-Meta Quest 3 | VRIF | Physics + Fun 👾  
+![VR](https://img.shields.io/badge/VR_Stumble_Guy-100000?style=for-the-badge&logo=meta&logoColor=white)
+🎮 [**View Demo**](https://drive.google.com/drive/u/1/folders/1_3ANh86cpEYNxa_uZKssLi7e8Ayf7yFY)   
 
-🃏 **[AR Card Portfolio](https://drive.google.com/file/d/1H8pnq6HkMy9Qvn5EBXnbseafwAp1Hb1e/view?usp=sharing)**  
-AR-based Interactive Portfolio | Marker Tracking Magic | AR Foundation ✨  
+![AR](https://img.shields.io/badge/AR_Card_Portfolio-FF4081?style=for-the-badge&logo=unity&logoColor=white)
+🃏 [**View Demo**](https://drive.google.com/file/d/1H8pnq6HkMy9Qvn5EBXnbseafwAp1Hb1e/view?usp=sharing)  
 
-🚗 **[Endless Game (3D)](https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view?usp=sharing)**  
-Unity 3D Infinite Runner | Cool chaos included 😎  
+![Game](https://img.shields.io/badge/Endless_Game_(3D)-0A66C2?style=for-the-badge&logo=unity&logoColor=white)
+🚗 [**View Demo**](https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view?usp=sharing)   
 
-🍳 ...some are still cooking, hehe :p
+🍳 ...some are still cooking, hehe
 
 ## ✨ Let’s Collaborate!
 If you’ve got an idea, I’m ready to execute it 🚀  
