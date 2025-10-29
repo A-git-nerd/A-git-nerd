@@ -9,8 +9,6 @@
 💼 **LinkedIn:** [Muhammad Ahmad Butt](https://www.linkedin.com/in/muhammad-ahmad-butt-0324b036a)  
 🧠 **Fun Fact:** I can code in **Assembly** and still sleep at night 😎  
 
----
-
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Languages
@@ -41,8 +39,6 @@
 ![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
 🎮 Unity Games (2D/3D) | AR | VR | Cool chaos included 😎
 
----
-
 ## 🚀 Projects
 
 ### 🌍 Web Apps
@@ -61,8 +57,6 @@
 ### 🎮 Unity Games
 - Endless Game (3D)  
 - Monster Chase (2D)  
-
----
 
 ## ✨ Let’s Collaborate!
 If you’ve got an idea, I’m ready to execute it 🚀  
