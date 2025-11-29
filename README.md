@@ -1,7 +1,6 @@
 # 👋 Wassup, I'm Muhammad Ahmad Butt!
 
 🥤 Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Ai/Ml**  
-🔥 Lemme cook through commits.  
 💭 Wanna see my private amm "repo"? (👀)
 
 ## 🌐 Connect With Me
