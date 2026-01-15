@@ -1,48 +1,38 @@
-# 👋 Wassup, I'm Muhammad Ahmad Butt!
+# Muhammad Ahmad Butt
+I am a developer with interests in **Web Development**, **AR/VR**, and **AI/ML**.  
+I enjoy building projects across different domains and experimenting with both low-level and high-level technologies.
 
-🥤 Just a noob guy who’s into **Web Dev**, **AR/VR**, and **Ai/Ml**  
-💭 Wanna see my private amm "repo"? (👀)
+## Contact & Links
+- **Email:** muhammad.ahmad.github@gmail.com  
+- **LinkedIn:** [Muhammad Ahmad Butt](https://www.linkedin.com/in/m-ahmad-butt)  
+- **Portfolio:** [m-ahmad-butt.me](https://www.m-ahmad-butt.me)  
+- **Fun Fact:** Comfortable coding in Assembly language.
 
-## 🌐 Connect With Me
-📫 **Email:** `muhammad.ahmad.github@gmail.com`  
-💼 **LinkedIn:** [Muhammad Ahmad Butt](https://www.linkedin.com/in/muhammad-ahmad-butt-0324b036a)  
-🧠 **Fun Fact:** I can code in **Assembly** and still sleep at night 😎  
+## Skills & Tools
+### Programming Languages
+- C, C++, C#, Python  
+- Java, JavaScript, HTML, CSS  
+- Sass, Assembly  
 
-## 🛠️ Skills & Tools
+### Frameworks & Libraries
+- React, Express.js, Spring Boot, Tailwind CSS  
+- Three.js, NumPy, Pandas, Scikit-learn  
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assembler&logoColor=white)
+### AR / VR / Game Development
+- Unity, Augmented Reality, Virtual Reality  
 
-### 🧱 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## Selected Projects (Demo)
+- **VR Stumble Guy**  
+  https://drive.google.com/file/d/1S_v3edVOjNpdePs5TmN83Zvq49dUrFGU/view
 
-### 🧠 AR / VR / Game Dev
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![AR](https://img.shields.io/badge/Augmented_Reality-FF4081?style=for-the-badge)
-![VR](https://img.shields.io/badge/Virtual_Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
+- **AR Card Portfolio**  
+  https://drive.google.com/file/d/1H8pnq6HkMy9Qvn5EBXnbseafwAp1Hb1e/view
 
-## 🔥Hot Projects (DEMO)
-[![VR](https://img.shields.io/badge/VR_Stumble_Guy-0A66C2?style=for-the-badge&logo=meta&logoColor=white)](https://drive.google.com/file/d/1S_v3edVOjNpdePs5TmN83Zvq49dUrFGU/view?usp=sharing)
-[![AR](https://img.shields.io/badge/AR_Card_Portfolio-FF4081?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/1H8pnq6HkMy9Qvn5EBXnbseafwAp1Hb1e/view?usp=sharing)
-[![Game](https://img.shields.io/badge/Endless_Game_(3D)-100000?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view?usp=sharing)
+- **Endless 3D Game**  
+  https://drive.google.com/file/d/10Isl8_UckU5hc1ZELZXRDSGzzsnXMTKI/view
 
-🍳 ...some are still cooking, hehe
+Some projects are still under development.
 
-## ✨ Let’s Collaborate!
-If you’ve got an idea, I’m ready to execute it 🚀  
+## Collaboration
+I am open to collaboration on interesting ideas and projects.  
+Feel free to reach out if you would like to work together.
