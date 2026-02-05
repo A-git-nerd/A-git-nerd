@@ -22,6 +22,9 @@ I enjoy building projects across different domains and experimenting with both l
 - Unity, Augmented Reality, Virtual Reality  
 
 ## Selected Projects (Demo)
+- **Lost & Found Portal (FAST-Nuces)**/
+  https://nucesfinder.vercel.app/
+  
 - **VR Stumble Guy**  
   https://drive.google.com/file/d/1S_v3edVOjNpdePs5TmN83Zvq49dUrFGU/view
 
